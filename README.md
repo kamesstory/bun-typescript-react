@@ -1,24 +1,23 @@
 # React with Bun runtime
 
-This is a React project boostrapped with bun.
+This is a Typescript + React project boostrapped with bun.
 
 ## Getting Started
 
-### Cloning the repo
+Clone this repo with
 
-```sh
-bun create react ./app
+```
+https://github.com/kamesstory/bun-typescript-react.git
 ```
 
 ### Development
 
-First, run the development server.
+Run the development server with the following command.:
 
 ```
 bun dev
 ```
 
-Open http://localhost:3000 with your browser to see the result.
+Then, open http://localhost:3000 with your browser to see the result.
 
-You can start editing the page by modifying src/App.jsx. The page auto-updates as you edit the file.
-
+You can start editing the page by modifying `src/App.tsx`. The page auto-updates as you edit the file.
