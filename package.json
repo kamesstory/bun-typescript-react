@@ -14,7 +14,10 @@
     ]
   },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "bun-types": "^0.1.2",
+    "react-refresh": "0.10.0",
+    "typescript": "latest"
   }
 }
